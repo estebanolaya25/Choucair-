@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-03-08T00:12:34" hostname="JUAN-PC" time="0.054">
+  <properties/>
+  <testcase name="Search for an automation course" classname="Academy Choucair" time="0.054">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5484f0d7
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6d9a5632
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@261cbd74
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for an automation course:Given than brandon wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When he search for the course on the choucair academy platform
+| strCourse |
+| Metodologia Bancolombia |, Then he fins the course called resources
+| strCourse |
+| Metodologia Bancolombia |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for an automation course:Given than brandon wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When he search for the course on the choucair academy platform
+| strCourse |
+| Metodologia Bancolombia |, Then he fins the course called resources
+| strCourse |
+| Metodologia Bancolombia |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for an automation course:Given than brandon wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When he search for the course on the choucair academy platform
+| strCourse |
+| Metodologia Bancolombia |, Then he fins the course called resources
+| strCourse |
+| Metodologia Bancolombia |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Search for an automation course
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
